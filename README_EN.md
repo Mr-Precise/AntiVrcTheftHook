@@ -38,4 +38,4 @@ Free is risky, you were warned :)
 In the giveaway "purchased models" for VRChat could be anything.
 Be careful.
 
-- I also **recommend** reading [Frequently asked Questions(FAQ)](FAQ_EN_.md)
+- I also **recommend** reading [Frequently asked Questions(FAQ)](FAQ_EN.md)
