@@ -15,3 +15,11 @@
 Менять пароли в VRChat и Discord, так же использовать двухфакторную авторизацию.
 
 Жалоба на Discord webhook [Discord Support requests](https://support.discord.com/hc/ru/requests/new)
+
+
+
+- **Как декодировать Base64?**
+
+Декодировать/Кодировать онлайн (найдено в Google) [base64decode.org](https://www.base64decode.org/)
+
+Пример на C#: `Console.WriteLine(Encoding.UTF8.GetString(Convert.FromBase64String("b64 here")));`
